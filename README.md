@@ -2,7 +2,7 @@
 
 Cute Puppies is a place for people to come look at inspiration to find their next four legged friend! 
 
-![Screenshot](https://raw.githubusercontent.com/alexandrevicenzi/soho/master/images/tn.png)
+![Screenshot]
 
 ## Features
 
