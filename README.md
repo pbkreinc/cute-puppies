@@ -1,6 +1,6 @@
 # Cute Puppies 
 
-Soho is a minimalist two-column [hugo](https://gohugo.io) theme based on [Hyde](https://github.com/spf13/hyde) inspired by the success of [Flex](https://github.com/alexandrevicenzi/Flex).
+Cute Puppies is a place for people to come look at inspiration to find their next four legged friend! 
 
 ![Screenshot](https://raw.githubusercontent.com/alexandrevicenzi/soho/master/images/tn.png)
 
